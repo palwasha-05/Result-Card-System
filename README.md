@@ -1,2 +1,16 @@
 # Result-Card-System
-Student result management and report card generation system using C++.
+Result Card System developed in C++ using basic programming concepts.
+Technologies used:
+- C++
+- Functions
+- Arrays
+- Loops
+- Conditional Statements
+- File Handling (if used)
+
+Features:
+- Student marks input
+- Percentage calculation
+- Grade calculation
+- Result display
+- Simple menu system
